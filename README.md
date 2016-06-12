@@ -29,13 +29,13 @@ EX: comcast.rb -d
 EX: comcast.rb -u admin -p password -l
 
 Options: 
-	-d, --default						Use default username/password.
-	-u, --username <USERNAME>			Define username.
-	-p, --password <PASSWORD>			Define password.
-	-n, --newpass <NEW_PASSWORD>		Define new password to set.
-	-l, --lolcat						Rainbow support, because we need it.
-	-v, --version 						Show verison number.
-	-h, --help 							Help menu.
+    -d, --default                    Use default username/password.
+    -u, --username <USERNAME>        Define username.
+    -p, --password <PASSWORD>        Define password.
+    -n, --newpass <NEW_PASSWORD>     Define new password to set.
+    -l, --lol                        Rainbow support, because we need it.
+    -v, --version                    Show verison number.
+    -h, --help                       Help menu.
 `
 
 ### Credits
