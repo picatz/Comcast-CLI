@@ -12,10 +12,10 @@ You're going to need to install the following ruby gems for rainbow powers and b
 
 ## Usage
 Login to admin panel using default credentials:
-`ruby comcast.rb -d`
+`ruby comcast-cli.rb -d`
 
 Login to admin panel using custom crendtials:
-`ruby comcast.rb -u <username> -p <password>`
+`ruby comcast-cli.rb -u <username> -p <password>`
 
 ### Credits
 Kent 'picat' Gruber
