@@ -97,9 +97,6 @@ optparse = OptionParser.new do |opts|
   	opts.on('-l', '--lol', "Rainbow support, because we need it.") do
     	require 'lolize/auto'
   	end
-  	opts.on('-l', '--lol', "Rainbow support, because we need it.") do
-    	require 'lolize/auto'
-  	end
   	opts.on('-v', '--version', "Show verison number.") do 
     	banner
     	version
